@@ -1,0 +1,1 @@
+example.vscode-plugin-1.33.7

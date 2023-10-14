@@ -1,0 +1,25 @@
+
+    editor.action.floatingPromptBar.focus
+    aichat.doAdvancedCodebaseQuery
+    aiInterfaceAgent.startInterfaceAgent
+    aiInterfaceAgent.pauseInterfaceAgent
+    aiSettings.action.toggleModel
+    cursorai.action.generateInTerminal
+    cursorai.action.hideGenerateInTerminal
+    cursorai.action.cancelGenerateInTerminal
+    cursorai.action.acceptGenerateInTerminal
+    cursorai.action.acceptAndRunGenerateInTerminal
+    cursorai.action.rejectGenerateInTerminal
+    aipopup.action.focusEdit
+    aipopup.action.cmdKRemoveFollowup
+    editor.action.cancelFloatingPromptBar
+    editor.action.rejectFloatingPromptBar
+    aipopup.action.closePromptBar
+    editor.action.inlineDiffs.cancelPromptBar
+    aichat.newchataction
+    aichat.setcodeblockaction
+    editor.action.acceptInlineSuggestionDiff
+    aiFeedback.action.reportBugs
+    aiFeedback.action.open
+    aichat.newfollowupaction
+    aichat.fixerrormessage

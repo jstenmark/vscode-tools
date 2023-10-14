@@ -30,7 +30,7 @@ const args = process.argv.slice(2);
 
 // Check if the arguments are provided correctly
 if (args.length !== 3 || args[1] !== '--key') {
-  console.log('Usage: node script.mjs [filepath] --key [examplekey]');
+  console.log('Usage: ./vscode-extension-extractor.mjs [filepath: eg. extensions.json] --key [eg. path]');
   process.exit(1);
 }
 
